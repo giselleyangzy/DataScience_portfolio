@@ -5,8 +5,8 @@
 - **Major**: Financial Mathematics (3+2 Engineering Program - EE) 
 - **Graduation Year**: 2025
 - **University**: Simmons University
-- **Academic Interests**: Data Science, Machine Learning, and Computer Engineering.
-- **Technical Skills**: R, Python, SQL, Git, Machine Learning, Data Visualization.
+- **Academic Interests**: Data Science, Machine Learning, and Electrical Engineering.
+- **Technical Skills**: R, Python, SQL, Github, Machine Learning, Data Visualization.
 
 ## Site Purpose
 This site showcases my data science work and projects.
@@ -38,3 +38,13 @@ Key findings include:
 - A negative relationship between the proportion of women in a major and its median salary, raising questions about pay equity.
 
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_2/mini_project_2.html)
+
+### ML Foundations Lab 
+
+As a fellow @ Break Trhough Tech AI program, I engaged in learning Machine Learning foundations at MIT. 
+
+#### [Define-and-Solve-ML-Problem](https://github.com/giselleyangzy/Define-and-Solve-ML-Problem)
+
+#### [ML-Evaluation-and-Deployment-](https://github.com/giselleyangzy/ML-Evaluation-and-Deployment-)
+
+
