@@ -1,9 +1,19 @@
-## Hi! I'm Giselle
+# Giselle's Data Science Portfolio
 
-I'm a FinMath major at Simmons University, graduating in 2025.  
-I enjoy working with data and applying machine learning to real-world problems.
+## About Me
+- **Name**: Giselle Yang
+- **Major**: Financial Mathematics (3+2 Engineering Program - EE) 
+- **Graduation Year**: 2025
+- **University**: Simmons University
+- **Academic Interests**: Data Science, Machine Learning, and Computer Engineering.
+- **Technical Skills**: R, Python, SQL, Git, Machine Learning, Data Visualization.
 
-### Projects
+## Site Purpose
+This site showcases my data science work and projects.
+
+## Projects
+
+### STAT228 - Intro to Data Science
 
 #### Mini Project 1: The Evolution of R&B: Trends in Proportion, and Popularity, and Energy vs Danceability
 We explored trends in expedition seasons and peak popularity.  
