@@ -16,7 +16,25 @@ This site showcases my data science work and projects.
 ### STAT228 - Intro to Data Science
 
 #### Mini Project 1: The Evolution of R&B: Trends in Proportion, and Popularity, and Energy vs Danceability
+
+This project explores how the R&B genre has evolved in the 21st century, focusing on key aspects such as genre proportions, popularity trends, and the relationship between energy and danceability. The analysis uses a dataset from Spotify (via the `spotifyr` package) and examines the changing landscape of R&B amidst the rise of streaming culture.
+
+Key findings include:
+
+- The gradual decrease in R&B's proportion of the overall music landscape since 2004.
+- Popularity fluctuations of R&B from 2001 to 2019, with a rise after 2010.
+- A weak correlation between energy and danceability in R&B songs, highlighting that energy alone does not guarantee danceability.
+
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_1/mini_project_1.html)
 
 #### Mini Project 2: Data Wrangling Tutorial: Where the Women Are? and What They Earn?
+
+This tutorial demonstrates how to wrangle and explore data on recent U.S. college graduates, focusing on gender representation, salary outcomes, and unemployment rates across various majors. The goal is to provide insights on how different fields of study impact employment and income, while showcasing practical data wrangling techniques using R’s `dplyr` and `tidyr` packages.
+
+Key findings include:
+
+- A large gender disparity in certain majors, with Education and Health fields predominantly female, while Engineering and Industrial Arts fields are male-dominated.
+- The identification of "high-earning majors," with Engineering disciplines having the highest median salaries.
+- A negative relationship between the proportion of women in a major and its median salary, raising questions about pay equity.
+
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_2/mini_project_2.html)
