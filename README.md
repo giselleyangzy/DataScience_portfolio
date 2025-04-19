@@ -16,8 +16,7 @@ This site showcases my data science work and projects.
 ### STAT228 - Intro to Data Science
 
 #### Mini Project 1: The Evolution of R&B: Trends in Proportion, and Popularity, and Energy vs Danceability
-We explored trends in expedition seasons and peak popularity.  
-👉 [View the report]()
+👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_1/mini_project_1.html)
 
 #### Mini Project 2: Data Wrangling Tutorial: Where the Women Are? and What They Earn?
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_2/mini_project_2.html)
