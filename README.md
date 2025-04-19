@@ -21,4 +21,4 @@ We explored trends in expedition seasons and peak popularity.
 
 #### Mini Project 2: Data Wrangling Tutorial: Where the Women Are? and What They Earn?
 This analysis looked at how different countries’ expedition patterns changed over time.  
-👉 [View the report](file:///Users/yzy/Documents/Simmons/24-25/Srping%2025/STAT228/mini_project_2/mini_project_2.html)
+👉 [View the report](https://github.com/giselleyangzy/STAT228_miniproject_2/mini_project_2.html)
