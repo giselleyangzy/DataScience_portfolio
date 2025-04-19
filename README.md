@@ -15,7 +15,7 @@ This site showcases my data science work and projects.
 
 ### STAT228 - Intro to Data Science
 
-#### Mini Project 1: The Evolution of R&B: Trends in Proportion, and Popularity, and Energy vs Danceability
+#### [Mini Project 1](https://github.com/giselleyangzy/STAT228_miniproject_1): The Evolution of R&B: Trends in Proportion, and Popularity, and Energy vs Danceability
 
 This project explores how the R&B genre has evolved in the 21st century, focusing on key aspects such as genre proportions, popularity trends, and the relationship between energy and danceability. The analysis uses a dataset from Spotify (via the `spotifyr` package) and examines the changing landscape of R&B amidst the rise of streaming culture.
 
@@ -27,7 +27,7 @@ Key findings include:
 
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_1/mini_project_1.html)
 
-#### Mini Project 2: Data Wrangling Tutorial: Where the Women Are? and What They Earn?
+#### [Mini Project 2](https://github.com/giselleyangzy/STAT228_miniproject_2): Data Wrangling Tutorial: Where the Women Are? and What They Earn?
 
 This tutorial demonstrates how to wrangle and explore data on recent U.S. college graduates, focusing on gender representation, salary outcomes, and unemployment rates across various majors. The goal is to provide insights on how different fields of study impact employment and income, while showcasing practical data wrangling techniques using R’s `dplyr` and `tidyr` packages.
 
