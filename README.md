@@ -39,6 +39,19 @@ Key findings include:
 
 👉 [View the report here](https://giselleyangzy.github.io/STAT228_miniproject_2/mini_project_2.html)
 
+#### [Final Project](https://github.com/giselleyangzy/STAT228_finalproject): Predicting NBA Player Performance
+
+In this project, I used data from FiveThirtyEight to predict how well NBA players perform (measured by PIE%) based on stats like offensive/defensive RAPTOR, usage rate, age, and position. I built a multiple linear regression model and evaluated it using RMSE.
+
+Key findings include:
+
+- Offensive and defensive RAPTOR ratings are strong predictors of performance.
+- The model explains about 80% of the variation in PIE%.
+- Guards tend to have lower predicted PIE% than centers, even with similar stats.
+
+👉 [View the report here](https://giselleyangzy.github.io/STAT228_finalproject/final_project.html)
+👉 [View the presentation sildes here]([https://giselleyangzy.github.io/STAT228_finalproject/final_project.html](https://github.com/giselleyangzy/STAT228_finalproject/blob/f278c7bf387a57d5732f9f2caab114cd3793cfca/STAT228%20-%20final%20project%20presentation.pdf))
+
 ### ML Foundations Lab 
 
 As a fellow @ Break Trhough Tech AI program, I engaged in learning Machine Learning foundations at MIT. 
